@@ -60,4 +60,8 @@ Jenkins Installation (Local purpose only)
 - `brew services start jenkins-lts`
 - `cat /Users/administrator/.jenkins/secrets/initialAdminPassword`
 
+Jenkins build rules
+- Push to PR Branches : Generate (android: .apk staging), (iOS: .ipa staging)
+- PR Merged to Master : Generate (android: .apk staging & preview), (iOS: .ipa staging & preview)
+- Tag from master : Generate (android: .apk & .aab production), (iOS: .ipa production)
 
