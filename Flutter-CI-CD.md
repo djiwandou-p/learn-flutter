@@ -55,8 +55,8 @@ For the ios
 - `fastlane init`
 
 Jenkins Installation (Local purpose only)
-`brew install jenkins-lts`
-`brew services start jenkins-lts`
-`cat /Users/administrator/.jenkins/secrets/initialAdminPassword`
+- `brew install jenkins-lts`
+- `brew services start jenkins-lts`
+- `cat /Users/administrator/.jenkins/secrets/initialAdminPassword`
 
 
