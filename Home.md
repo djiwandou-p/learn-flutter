@@ -6,7 +6,7 @@ This project is depend on :
 
 
 ## **Another documentation**
-- Flutter CI/CD with Jenkins, MacOs & Fastlane
+- [Flutter CI/CD with Jenkins, MacOS and fastlane](https://github.com/evermos/evermos-flutter/wiki/Flutter-CI-CD)
 
 ## **Test account**
 
