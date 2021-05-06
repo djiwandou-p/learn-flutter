@@ -45,11 +45,11 @@ Install Fastlane
 - `brew install fastlane`
 
 Initial fastlane in project<br>
-For the android
+1. For the android
 - `cd android/`
 - `fastlane init`
 
-For the ios
+2. For the ios
 - `cd ios/`
 - `fastlane match init`
 - `fastlane init`
