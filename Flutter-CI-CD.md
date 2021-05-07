@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/83566781/117230672-c969d780-ae47-11eb-924c-3b3382a91e52.jpeg" width="500"><br>
 This project has automatic CI/CD and testing, to reproduce what is already defined follow this step below.<br>
-**Software requirement for CI/CD**
+## Software requirement for CI/CD
 * Jenkins
 * Homebrew
 * Cocoapods
