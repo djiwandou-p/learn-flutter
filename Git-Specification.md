@@ -1,5 +1,5 @@
 # Git Specification
-because evermos-flutter already using jenkins - github integration there is a specification, refer to the Jenkinsfile rules.<br>
+because evermos-flutter already using Jenkins - GitHub integration there is a specification, referring to the Jenkinsfile rules.<br>
 referring to build [Flutter CI/CD](https://github.com/evermos/evermos-flutter/wiki/Flutter-CI-CD) wiki's, there is three-stage of the build process which depends on the what kind of trigger goes off. <br>
 * Pull Request will trigger created new branch with name PR-* and that also triggers Jenkins to build debug apk
 * After PR-* merged it will trigger branch master to change, so the Jenkins will trigger to build both debug apk & preview apk.
