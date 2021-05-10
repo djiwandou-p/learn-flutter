@@ -66,3 +66,4 @@ Jenkins build rules
 - PR Merged to Master : Generate (android: .apk staging & preview), (iOS: .ipa staging & preview)
 - Tag from master : Generate (android: .apk & .aab production), (iOS: .ipa production)
 
+Also, there is a Git Specification, please refer to this [link](https://github.com/evermos/evermos-flutter/wiki/Git-Specification)
