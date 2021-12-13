@@ -1,9 +1,12 @@
 This documentation will guide every team member to write code that effective, less redundant, readable, and easy to understand for every member. Also, this documentation should be updated when there is a more sophisticated workflow. The final goal of this documentation is to guide every member to follow `Defined & Approved Standard` that can make the code more Uniform for the rest of us. In order to keep everything applicable for everyone, it's important to Classificate the Guidelines into a multiple category
 
-* Fundamental guideline 
+# Classification
+
+Fundamental guideline 
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-- Project Structure
+- [Project Structure](https://github.com/evermos/evermos-flutter/wiki/Code-Writing-Guideline#project-structure)
+- [Evermos Flutter Best Practice 101](https://github.com/evermos/evermos-flutter/wiki/Code-Writing-Guideline#project-structure)
 
 ## Project structure
 Our project structure is divided to 3 section :
@@ -124,3 +127,6 @@ here is the map :
     │           └── widget2.dart
     └── main.dart
 ```
+
+## Evermos Flutter Best Practice 101
+In order to avoid `Premature Optimization` while breaking down software complexities, there is a things to follow so we don't get lost in the development process. We really respect the diversity of member individual thinking, but we can't implement all of them into the project, that's why this documentation & guidelines is created, to create an standard that everyone commit to agree & follow. 
