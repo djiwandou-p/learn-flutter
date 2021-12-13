@@ -129,4 +129,12 @@ here is the map :
 ```
 
 ## Evermos Flutter Best Practice 101
-In order to avoid `Premature Optimization` while breaking down software complexities, there is a things to follow so we don't get lost in the development process. We really respect the diversity of member individual thinking, but we can't implement all of them into the project, that's why this documentation & guidelines is created, to create an standard that everyone commit to agree & follow. 
+In order to avoid `Premature Optimization` while breaking down software complexities, there is a things to follow so we don't get lost in the development process. We really respect the diversity of member individual thinking, but we can't implement all of them into the project, that's why this documentation & guidelines is created, to create a standard that everyone commit to agree & follow. 
+
+Keep project folders shallow (Deep nested doesn't recommended), depend on classification project folders under `/lib` :
+1. `Big chunk` this level should contain a big part of segregated code based on the Architectural view
+  - common, this folder contain common files such an utils, extension class, or even a boilerplate class or function that created to be used from all project files.
+  - const, this folder contain localization, values, constant, that needed to be wrote on file.
+  - data, this folder contain data related files such an datasource class, model class, mapper class, and repository interface class.
+  - domain
+  - presentation
