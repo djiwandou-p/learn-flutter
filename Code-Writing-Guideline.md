@@ -6,7 +6,7 @@ Fundamental guideline
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Project Structure](https://github.com/evermos/evermos-flutter/wiki/Code-Writing-Guideline#project-structure)
-- [Evermos Flutter Best Practice 101](https://github.com/evermos/evermos-flutter/wiki/Code-Writing-Guideline#project-structure)
+- [Evermos Flutter Best Practice 101](https://github.com/evermos/evermos-flutter/wiki/Code-Writing-Guideline#evermos-flutter-best-practice-101)
 
 ## Project structure
 Our project structure is divided to 3 section :
