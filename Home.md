@@ -40,17 +40,17 @@ If you want to running this project without IDE that support flutter and dart pl
 flutter run --flavor $flavorType --dart-define=FLAVOR_TYPE=$flavorType
 ```
 
-### Staging
+## Staging
 ```
 flutter run --flavor staging --dart-define=FLAVOR_TYPE=staging
 ```
 
-### Preview
+## Preview
 ```
 flutter run --flavor preview --dart-define=FLAVOR_TYPE=preview
 ```
 
-### Production
+## Production
 Add args `release` for production. Please note, you can't apply this command to run in simulator. Because Apple not give permission to us install production in simulator.
 ```
 flutter run --flavor production --release --dart-define=FLAVOR_TYPE=production
