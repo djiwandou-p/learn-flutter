@@ -22,7 +22,7 @@ this level should contain a big part of segregated code based on the Architectur
 ### Level 2
 this level should contain files depend on the ancestor level, example : `data > datasources`. For full example please take a look to the full map
 
-### level 3 (Optional)
+### Level 3 (Optional)
 This level should contain more categorized files example : `data > datasources > voucher`, but there is a criteria to create level 3. If the file amount inside level 2 is more than 10. **Important notes : Directory more than level 3 should be avoided because this will conflict with modularization purposes**
 
 here is the map : 
