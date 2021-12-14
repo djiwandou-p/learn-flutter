@@ -4,7 +4,7 @@ This documentation will guide every team member to write code that effective, le
 
 Fundamental guideline 
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
-- [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Clean Architecture](https://github.com/evermos/evermos-flutter/wiki/Clean-Architecture)
 - [Project Structure](https://github.com/evermos/evermos-flutter/wiki/Code-Writing-Guideline#project-structure)
 - [Evermos Flutter Best Practice 101](https://github.com/evermos/evermos-flutter/wiki/Code-Writing-Guideline#evermos-flutter-best-practice-101)
 
